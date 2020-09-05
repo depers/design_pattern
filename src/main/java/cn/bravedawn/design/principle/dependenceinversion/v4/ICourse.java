@@ -1,4 +1,4 @@
-package cn.bravedawn.design.principle.dependenceinversion;
+package cn.bravedawn.design.principle.dependenceinversion.v4;
 
 /**
  * @author : depers

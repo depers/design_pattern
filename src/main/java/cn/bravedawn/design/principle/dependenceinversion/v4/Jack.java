@@ -1,7 +1,5 @@
 package cn.bravedawn.design.principle.dependenceinversion.v4;
 
-import cn.bravedawn.design.principle.dependenceinversion.ICourse;
-
 /**
  * @author : depers
  * @program : design_pattern
