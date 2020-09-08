@@ -6,9 +6,9 @@ package cn.bravedawn.design.principle.openclose;
  * @description: 打折课程
  * @date : Created in 2020/8/23 18:36
  */
-public class DiscountCourse extends Course{
+public class DiscountCourseV2 extends Course{
 
-    public DiscountCourse(Integer id, String name, Double price) {
+    public DiscountCourseV2(Integer id, String name, Double price) {
         super(id, name, price);
     }
 
@@ -21,16 +21,7 @@ public class DiscountCourse extends Course{
     }
 
     /**
-     * 这样写其实违背了里式替换原则，子类不能够覆盖父类的非抽象方法
-     * @return
-     */
-    @Override
-    public Double getPrice() {
-        return super.getPrice() * 0.8;
-    }
-
-    /**
-     * 应该单独扩展子类的方法去实现子类的功能
+     * 返回打折价格，应该单独扩展子类的方法去实现子类的功能
      * @return
      */
     public Double getDiscountPrice(){
