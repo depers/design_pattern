@@ -3,7 +3,7 @@ package cn.bravedawn.design.pattern.creational.factorymethod;
 /**
  * @author : depers
  * @program : design_pattern
- * @description: 视频工厂
+ * @description: 视频工厂, 抽象工厂
  * @date : Created in 2020/9/13 16:00
  */
 public abstract class VideoFactory {
