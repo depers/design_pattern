@@ -1,4 +1,5 @@
-package cn.bravedawn.design.pattern.creational.singleton;
+package cn.bravedawn.design.pattern.creational.singleton.lazydoublecheck;
+
 
 /**
  * @author : depers
@@ -9,13 +10,6 @@ package cn.bravedawn.design.pattern.creational.singleton;
 public class Test {
 
     public static void main(String[] args) {
-        // test one
-        /*
-        LazySingleton lazySingleton = LazySingleton.getInstance();
-        System.out.println("program end.");
-        */
-
-        // test two
         Thread t1 = new Thread(new T());
         Thread t2 = new Thread(new T());
         t1.start();

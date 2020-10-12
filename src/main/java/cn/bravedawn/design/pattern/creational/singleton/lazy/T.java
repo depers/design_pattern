@@ -1,4 +1,4 @@
-package cn.bravedawn.design.pattern.creational.singleton;
+package cn.bravedawn.design.pattern.creational.singleton.lazy;
 
 /**
  * @author : depers

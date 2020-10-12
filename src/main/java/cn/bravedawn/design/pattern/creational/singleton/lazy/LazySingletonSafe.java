@@ -1,4 +1,4 @@
-package cn.bravedawn.design.pattern.creational.singleton;
+package cn.bravedawn.design.pattern.creational.singleton.lazy;
 
 /**
  * @author : depers
@@ -9,6 +9,7 @@ package cn.bravedawn.design.pattern.creational.singleton;
 public class LazySingletonSafe {
 
     // 1.在类加载时并不自行实例化，这种技术又称为延迟加载(Lazy Load)技术
+    // 懒汉式单例在第一次调用getInstance()方法时实例化，在类加载时并不自行实例化，这种技术又称为延迟加载(Lazy Load)技术，即需要的时候再加载实例
     private static LazySingletonSafe lazySingleton = null;
 
     // 2.禁止外部实例化对象
