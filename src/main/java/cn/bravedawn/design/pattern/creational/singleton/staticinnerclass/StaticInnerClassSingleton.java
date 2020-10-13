@@ -17,8 +17,6 @@ public class StaticInnerClassSingleton {
     }
 
     public static StaticInnerClassSingleton getInstance(){
-        System.out.println("1212");
         return InnerClass.staticInnerClassSingleton;
-
     }
 }
