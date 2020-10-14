@@ -1,4 +1,4 @@
-package cn.bravedawn.design.pattern.creational.singleton.hungryserializable;
+package cn.bravedawn.design.pattern.creational.singleton.serializable;
 
 import java.io.*;
 

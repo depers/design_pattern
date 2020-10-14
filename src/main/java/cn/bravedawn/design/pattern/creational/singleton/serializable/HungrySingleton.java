@@ -1,4 +1,4 @@
-package cn.bravedawn.design.pattern.creational.singleton.hungryserializable;
+package cn.bravedawn.design.pattern.creational.singleton.serializable;
 
 import java.io.Serializable;
 
@@ -15,6 +15,9 @@ public class HungrySingleton implements Serializable{
     static {
         hungrySingleton = new HungrySingleton();
     }
+
+    private HungrySingleton(){}
+
 
     public static HungrySingleton getInstance(){
         return hungrySingleton;
