@@ -1,4 +1,4 @@
-package cn.bravedawn.design.pattern.creational.singleton.reflect;
+package cn.bravedawn.design.pattern.creational.singleton.reflectattack;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
@@ -7,21 +7,21 @@ import java.lang.reflect.InvocationTargetException;
  * @author : depers
  * @program : design_pattern
  * @description: 应用层
- * @date : Created in 2020/10/14 22:29
+ * @date : Created in 2020/10/13 22:44
  */
-public class LazyTest {
+public class Test {
 
     public static void main(String[] args) throws NoSuchMethodException, IllegalAccessException, InvocationTargetException, InstantiationException {
+
         /**
-         * 懒汉式单例反射攻击
+         * 饿汉式单例反射攻击测试
          */
-        Class objectClass = LazySingleton.class;
+        Class objectClass = HungrySingleton.class;
         Constructor constructor = objectClass.getDeclaredConstructor();
         // 设置允许访问非public的构造器
         constructor.setAccessible(true);
-
-        LazySingleton newInstance = (LazySingleton) constructor.newInstance();
-        LazySingleton instance = LazySingleton.getInstance();
+        HungrySingleton instance = HungrySingleton.getInstance();
+        HungrySingleton newInstance = (HungrySingleton) constructor.newInstance();
 
         System.out.println(instance);
         System.out.println(newInstance);

@@ -1,4 +1,4 @@
-package cn.bravedawn.design.pattern.creational.singleton.reflect;
+package cn.bravedawn.design.pattern.creational.singleton.reflectattack;
 
 /**
  * @author : depers

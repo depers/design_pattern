@@ -1,4 +1,4 @@
-package cn.bravedawn.design.pattern.creational.singleton.serializable;
+package cn.bravedawn.design.pattern.creational.singleton.serializabledamage;
 
 import java.io.*;
 

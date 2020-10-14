@@ -1,4 +1,4 @@
-package cn.bravedawn.design.pattern.creational.singleton.reflect;
+package cn.bravedawn.design.pattern.creational.singleton.reflectattack;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

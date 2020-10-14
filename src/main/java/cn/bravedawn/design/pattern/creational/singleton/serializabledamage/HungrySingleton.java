@@ -1,4 +1,4 @@
-package cn.bravedawn.design.pattern.creational.singleton.reflect;
+package cn.bravedawn.design.pattern.creational.singleton.serializabledamage;
 
 import java.io.Serializable;
 
@@ -16,12 +16,8 @@ public class HungrySingleton implements Serializable{
         hungrySingleton = new HungrySingleton();
     }
 
-    private HungrySingleton(){
-        // 避免反射攻击
-        if (hungrySingleton != null) {
-            throw new RuntimeException("单例构造器禁止反射调用");
-        }
-    }
+    private HungrySingleton(){}
+
 
     public static HungrySingleton getInstance(){
         return hungrySingleton;
