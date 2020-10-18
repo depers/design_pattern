@@ -8,7 +8,20 @@ package cn.bravedawn.design.pattern.creational.singleton.enumsingleton;
  */
 public enum EnumInstance {
 
-    INSTANCE;
+    INSTANCE{
+        protected void print(){
+            System.out.println("instance print test.");
+        }
+
+        public void print2(){
+            System.out.println("instance print test2.");
+        }
+    };
+
+    protected abstract void print();
+
+    public abstract void print2();
+
 
     private Object data;
 
