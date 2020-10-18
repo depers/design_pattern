@@ -18,7 +18,7 @@ public class LazyDoubleCheckSingleton {
 
     }
 
-    // 3.提供实例化方法（线程不安全的）
+    // 3.提供实例化方法
     public static LazyDoubleCheckSingleton getInstance(){
         if (lazyDoubleCheckSingleton == null){
             synchronized (LazyDoubleCheckSingleton.class){
