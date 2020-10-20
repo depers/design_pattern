@@ -1,4 +1,4 @@
-package cn.bravedawn.design.pattern.creational.prototype;
+package cn.bravedawn.design.pattern.creational.prototype.v1;
 
 /**
  * @author : depers
@@ -6,7 +6,7 @@ package cn.bravedawn.design.pattern.creational.prototype;
  * @description: 邮件
  * @date : Created in 2020/10/19 21:45
  */
-public class Mail {
+public class Mail implements Cloneable{
 
     private String name;
     private String emailAddress;
@@ -46,6 +46,12 @@ public class Mail {
                 "name='" + name + '\'' +
                 ", emailAddress='" + emailAddress + '\'' +
                 ", content='" + content + '\'' +
-                '}';
+                '}' + super.toString();
+    }
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        System.out.println("clone mail object");
+        return super.clone();
     }
 }

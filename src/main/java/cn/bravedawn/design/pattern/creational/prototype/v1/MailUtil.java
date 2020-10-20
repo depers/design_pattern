@@ -1,4 +1,4 @@
-package cn.bravedawn.design.pattern.creational.prototype;
+package cn.bravedawn.design.pattern.creational.prototype.v1;
 
 import java.text.MessageFormat;
 
