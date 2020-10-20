@@ -10,6 +10,8 @@ public class HungrySingleton {
 
     private final static HungrySingleton hungrySingleton;
 
+    private HungrySingleton() {}
+
     static {
         hungrySingleton = new HungrySingleton();
     }
