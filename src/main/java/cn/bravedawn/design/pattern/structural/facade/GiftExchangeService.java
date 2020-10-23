@@ -3,7 +3,7 @@ package cn.bravedawn.design.pattern.structural.facade;
 /**
  * @author : depers
  * @program : design_pattern
- * @description: 积分交换交易
+ * @description: 积分礼物交换交易
  * @date : Created in 2020/10/23 20:38
  */
 public class GiftExchangeService {
