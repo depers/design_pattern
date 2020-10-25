@@ -18,6 +18,7 @@
 |  6   |        第6章 建造者模式        | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC7%E7%AB%A0%20%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.md) | 2020年9月20日  |
 |  7   |         第7章 单例模式         | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC7%E7%AB%A0%20%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md) | 2020年9月29日  |
 |  8   |         第8章 原型模式         | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC8%E7%AB%A0%20%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.md) | 2020年10月19日 |
+|  9   |         第9章 外观模式         | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC9%E7%AB%A0%20%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F.md) | 2020年10月23日 |
 
 ## :dizzy:更新进度
 
