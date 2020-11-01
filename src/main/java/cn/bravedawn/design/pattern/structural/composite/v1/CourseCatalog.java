@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @author : depers
  * @program : design_pattern
- * @description: 课程目录
+ * @description: 课程目录，Composite（容器构件）
  * @date : Created in 2020/10/31 10:38
  */
 public class CourseCatalog extends CatalogComponent{

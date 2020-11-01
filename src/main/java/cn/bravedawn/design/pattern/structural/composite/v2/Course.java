@@ -3,7 +3,7 @@ package cn.bravedawn.design.pattern.structural.composite.v2;
 /**
  * @author : depers
  * @program : design_pattern
- * @description: 课程
+ * @description: 课程，Leaf（叶子构件）
  * @date : Created in 2020/10/31 10:34
  */
 public class Course extends CatalogComponent {

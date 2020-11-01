@@ -3,7 +3,7 @@ package cn.bravedawn.design.pattern.structural.composite.v2;
 /**
  * @author : depers
  * @program : design_pattern
- * @description: 目录抽象组件
+ * @description: 目录抽象组件，Component（抽象构件）
  * @date : Created in 2020/10/31 10:28
  */
 public abstract class CatalogComponent {
