@@ -20,7 +20,10 @@
 |  8   |         第8章 原型模式         | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC8%E7%AB%A0%20%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.md) | 2020年10月19日 |
 |  9   |         第9章 外观模式         | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC9%E7%AB%A0%20%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F.md) | 2020年10月23日 |
 |  10  |       第10章 装饰者模式        | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC10%E7%AB%A0%20%E8%A3%85%E9%A5%B0%E8%80%85%E6%A8%A1%E5%BC%8F.md) | 2020年10月25日 |
-|  11  |       第11章 适配器模式        |                           [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC11%E7%AB%A0%20%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.md)                           | 2020年10月26日 |
+|  11  |       第11章 适配器模式        | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC11%E7%AB%A0%20%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.md) | 2020年10月26日 |
+|  12  |        第12章 享元模式         | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC12%E7%AB%A0%20%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F.md) | 2020年10月31日 |
+|  13  |        第13章 组合模式         | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC13%E7%AB%A0%20%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F.md) | 2020年10月31日 |
+|  14  |        第14章 桥接模式         | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC14%E7%AB%A0%20%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F.md) | 2020年11月1日  |
 
 ## :dizzy:更新进度
 
