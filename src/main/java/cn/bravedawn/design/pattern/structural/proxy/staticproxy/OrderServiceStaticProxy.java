@@ -16,24 +16,21 @@ public class OrderServiceStaticProxy {
     private IOrderService iOrderService;
 
     public int saveOrder(Order order){
-        beforeMethod();
+        beforeMethod(order);
         iOrderService = new OrderServiceImpl();
-
-        int userId = order.getUserId();
-        int dbRouter = userId % 2;
-        System.out.println("静态代理分配到【db" + dbRouter + "】处理数据");
-
-        // todo 设置datasource
-        DataSourceContextHolder.setDBType("db" + String.valueOf(dbRouter));
-
+        int result = iOrderService.saveOrder(order);
         afterMethod();
-
-        return iOrderService.saveOrder(order);
+        return result;
 
     }
 
-    public void beforeMethod(){
+    public void beforeMethod(Order order){
         System.out.println("静态代理 before code");
+        int userId = order.getUserId();
+        int dbRouter = userId % 2;
+        // todo 设置datasource
+        DataSourceContextHolder.setDBType("db" + String.valueOf(dbRouter));
+        System.out.println("静态代理分配到【db" + dbRouter + "】处理数据");
     }
 
     public void afterMethod(){
