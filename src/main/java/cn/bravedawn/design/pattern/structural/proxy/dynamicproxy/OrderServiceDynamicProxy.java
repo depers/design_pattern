@@ -29,6 +29,7 @@ public class OrderServiceDynamicProxy implements InvocationHandler {
     }
 
     // 第三步：实现InvocationHandler接口，增强被代理接口方法
+    // 在调用OrderService的saveOrder方法时，就会调用该方法
     @Override
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
         Object argObject = args[0];
