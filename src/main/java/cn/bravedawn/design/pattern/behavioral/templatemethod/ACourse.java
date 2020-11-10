@@ -8,6 +8,7 @@ package cn.bravedawn.design.pattern.behavioral.templatemethod;
  */
 public abstract class ACourse {
 
+    // 值得注意的是这里应该加final，这样子类就不能复写该方法了
     protected final void makeCourse(){
         this.makePPT();
         this.makeVideo();
