@@ -31,7 +31,8 @@
 |  19  |       第19章 解释器模式        | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC19%E7%AB%A0%20%E8%A7%A3%E9%87%8A%E5%99%A8%E6%A8%A1%E5%BC%8F.md) | 2020年11月25日 |
 |  20  |       第20章 观察者模式        | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC20%E7%AB%A0%20%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md) | 2020年12月2日  |
 |  21  |       第21章 备忘录模式        | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC21%E7%AB%A0%20%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F.md) | 2020年12月10日 |
-|  22  |        第22章 命令模式         |                           [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC22%E7%AB%A0%20%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md)                           | 2020年12月17日 |
+|  22  |        第22章 命令模式         | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC22%E7%AB%A0%20%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md) | 2020年12月17日 |
+|  23  |       第23章 中介者模式        | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC23%E7%AB%A0%20%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F.md) | 2020年12月21日 |
 
 ## :dizzy:更新进度
 
