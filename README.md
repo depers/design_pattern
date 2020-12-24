@@ -33,7 +33,8 @@
 |  21  |       第21章 备忘录模式        | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC21%E7%AB%A0%20%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F.md) | 2020年12月10日 |
 |  22  |        第22章 命令模式         | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC22%E7%AB%A0%20%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md) | 2020年12月17日 |
 |  23  |       第23章 中介者模式        | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC23%E7%AB%A0%20%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F.md) | 2020年12月21日 |
-|  24  |       第24章 责任链模式        |                           [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC24%E7%AB%A0%20%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F.md)                           | 2020年12月22日 |
+|  24  |       第24章 责任链模式        | [note](https://github.com/depers/Note/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AC%AC24%E7%AB%A0%20%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F.md) | 2020年12月22日 |
+|  25  |       第25章 访问者模式        |                           [note]()                           | 2020年12月24日 |
 
 ## :dizzy:更新进度
 
