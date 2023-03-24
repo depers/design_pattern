@@ -6,7 +6,6 @@ import org.apache.commons.lang3.StringUtils;
  * @author : depers
  * @program : design_pattern
  * @description: 课程类，链式调用
- *              这个类比较简单，包含了产品和具体的构建者
  * @date : Created in 2020/9/21 20:10
  */
 public class Course {

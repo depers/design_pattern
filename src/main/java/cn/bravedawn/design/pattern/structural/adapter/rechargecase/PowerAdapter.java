@@ -1,5 +1,7 @@
 package cn.bravedawn.design.pattern.structural.adapter.rechargecase;
 
+import cn.bravedawn.design.pattern.creational.prototype.abstractprototype.A;
+
 /**
  * @author : depers
  * @program : design_pattern

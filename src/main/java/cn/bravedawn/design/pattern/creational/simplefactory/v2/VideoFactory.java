@@ -11,6 +11,7 @@ public class VideoFactory {
     /**
      * 1. 工厂类的职责相对过重，增加新的产品需要修改工厂类的判断逻辑，违背开闭原则
      * 2. 如果这个方法不需要继承和重写，这个方法也可以是static的。因为static方法是不能被重写的
+     *    若子类复写了父类的静态方法，子类的静态方法是不会被调用的，所以写了也是白写
      */
     public Video getVideo(String type){
         if ("Java".equalsIgnoreCase(type)){
